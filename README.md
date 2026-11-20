@@ -1,6 +1,6 @@
 # Latihan Pertama
 
-Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto*.
+Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk instalasi OK.
 
 ## Yang Sudah Dipelajari
 
@@ -10,21 +10,22 @@ Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto*.
 
 ## Rencana Berikutnya
 
-- [x] Dasar GitHub
-- [x] Format Markdown
-- [ ] Merge conflict
-- [ ] Repo private
+* \[x] Dasar GitHub
+* \[x] Format Markdown
+* \[ ] Merge conflict
+* \[ ] Repo private
 
 ## Contoh Tabel
 
-| Istilah | Analogi di RS |
-|---|---|
-| Commit | Lembar revisi |
-| Branch | Draf usulan |
-| Merge | Draf disahkan |
+|Istilah|Analogi di RS|
+|-|-|
+|Commit|Lembar revisi|
+|Branch|Draf usulan|
+|Merge|Draf disahkan|
 
-> **Catatan:** jangan simpan data pasien di repo public.
+> \*\*Catatan:\*\* jangan simpan data pasien di repo public.
 
----
+\---
 
 Pelajari lebih lanjut di [GitHub Docs](https://docs.github.com).
+
