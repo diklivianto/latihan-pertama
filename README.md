@@ -15,7 +15,7 @@ Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk  instala
 - [x] Merge conflict
 - [x] Repo private
 - [x] Issues
-- [ ] GitHub pages
+- [x] GitHub pages
 
 ## Contoh Tabel
 
