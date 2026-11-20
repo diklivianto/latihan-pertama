@@ -1,6 +1,6 @@
 # Latihan Pertama
 
-Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto*.
+Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* di RS Hermina
 
 ## Yang Sudah Dipelajari
 
