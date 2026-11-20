@@ -23,9 +23,9 @@ Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk  instala
 |Branch|Draf usulan|
 |Merge|Draf disahkan|
 
-> \*\*Catatan:\*\* jangan simpan data pasien di repo public.
+> **Catatan:** jangan simpan data pasien di repo public.
 
-\---
+---
 
 Pelajari lebih lanjut di [GitHub Docs](https://docs.github.com).
 
