@@ -1,55 +1,30 @@
-\# Latihan Pertama
+# Latihan Pertama
 
+Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto*.
 
-
-Repo ini adalah \*\*Latihan belajar GitHub\*\* oleh \*dr. Diklivianto\*
-
-
-
-\## Yang sudah dipelajari
-
-
+## Yang Sudah Dipelajari
 
 1. Clone, commit, dan push
 2. Branch dan pull request
 3. Revert
 
+## Rencana Berikutnya
 
+- [x] Dasar GitHub
+- [x] Format Markdown
+- [ ] Merge conflict
+- [ ] Repo private
 
-\## Rencana berikutnya
-
-
-
-* \[X] dasar GitHub
-* \[X] format markdown
-* \[ ] Merge Conflict
-* \[ ] Repo private
-
-
-
-\## Contoh table
-
-
+## Contoh Tabel
 
 | Istilah | Analogi di RS |
-
 |---|---|
+| Commit | Lembar revisi |
+| Branch | Draf usulan |
+| Merge | Draf disahkan |
 
-| commit | lembar revisi |
+> **Catatan:** jangan simpan data pasien di repo public.
 
-| branch | draf usulan |
+---
 
-| merge | draf disahkan |
-
-
-
-> \\\*\\\*Catatan\\\*\\\* jangan simpan data pasien di repo public
-
-
-
-\---
-
-
-
-pelajari lebih lanjut du \[GitHub docs](https://docs.github.com)
-
+Pelajari lebih lanjut di [GitHub Docs](https://docs.github.com).
