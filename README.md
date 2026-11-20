@@ -43,7 +43,7 @@ Repo ini adalah \*\*Latihan belajar GitHub\*\* oleh \*dr. Diklivianto\*
 
 
 
-> \*\*Catatan\*\* jangan simpan data pasien di repo public
+> \\\*\\\*Catatan\\\*\\\* jangan simpan data pasien di repo public
 
 
 
