@@ -1,6 +1,6 @@
 # Latihan Pertama
 
-Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk instalasi OK.
+Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk  instalasi OK di RS Hermina.
 
 ## Yang Sudah Dipelajari
 
