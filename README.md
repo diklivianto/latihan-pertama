@@ -14,6 +14,8 @@ Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk  instala
 * \[x] Format Markdown
 * \[x] Merge conflict
 * \[x] Repo private
+- [x] Issues
+- [ ] GitHub pages
 
 ## Contoh Tabel
 
