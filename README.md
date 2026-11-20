@@ -12,7 +12,7 @@ Repo ini adalah **latihan belajar GitHub** oleh *dr. Diklivianto* untuk  instala
 
 * \[x] Dasar GitHub
 * \[x] Format Markdown
-* \[ ] Merge conflict
+* \[x] Merge conflict
 * \[ ] Repo private
 
 ## Contoh Tabel
